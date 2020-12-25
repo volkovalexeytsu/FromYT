@@ -1,0 +1,2 @@
+git lfs track "*.sln"
+git lfs track ".vs"
